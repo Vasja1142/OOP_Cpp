@@ -1,0 +1,5 @@
+C:/OOP_Cpp/lab63/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/OOP_Cpp/lab63/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/OOP_Cpp/lab63/out/build/x64-Debug/lab63/CMakeFiles/lab63.dir
+C:/OOP_Cpp/lab63/out/build/x64-Debug/lab63/CMakeFiles/edit_cache.dir
+C:/OOP_Cpp/lab63/out/build/x64-Debug/lab63/CMakeFiles/rebuild_cache.dir
